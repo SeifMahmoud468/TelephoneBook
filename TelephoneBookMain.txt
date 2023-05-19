@@ -1,0 +1,12 @@
+Steven,Thomas,10-06-1995,26 Elhorey Street,01234567899,sthomas@gmail.com
+Seif,Mahmoud,15-12-2000,28 Dinokrat Street,01286029500,seifmahmoud@gmail.com
+Zeyad,Ashraf,13-11-2000,66 sasfaasf Street,01225189268,zeyadashraf@gmail.com
+Omar,El Sayed,11-02-1958,23 afh fdh Street,01154865489,omarsayed@gmail.com
+Omar,Ibrahim,15-06-1999,221 abo awa Street,01056418181,omaribrahim@gmail.com
+Omar,Ibrahim,15-12-2000,25 dinokrat Street,01056418822,omaribrahim25@gmail.com
+Sayed,Ahmed,03-02-1998,628 sksadfsf Street,01252354841,sayedahmed@gmail.com
+Ali,Mohamed,25-08-1992,158 gfkohmfg Street,01198588853,alimohamed54@gmail.com
+Ahmed,Alaa,28-11-1997,K5A kfghkgfsd Street,01280858074,ahmedalaa@gmail.com
+Ali,Al Mohamady,01-01-2001,21 asdas Street,01065845247,alimohamdy@gmail.com
+khaled,Amr,15-01-1995,256 asdsafhaf Street,01000000058,khaledkhaled@gmail.com
+Amr,ElSayed,05-05-1996,28a adsadsfs Street,01200006881,omarsayed@gmail.com

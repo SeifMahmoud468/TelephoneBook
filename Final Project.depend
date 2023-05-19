@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1610820255 source:e:\seif\term 3\programig 1\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1610818413 source:c:\users\m\downloads\untitled1.c
+	<stdio.h>
+
+1611824836 source:e:\seif\term 3\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1611674840 source:e:\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1611824836 source:e:\seif\collage\term 3\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
